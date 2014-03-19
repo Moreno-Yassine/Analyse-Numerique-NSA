@@ -1,0 +1,320 @@
+- Cycle 1 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.802587 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.259763 
+- Test Monobit AES : 0.246009 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.288001 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.255102 
+- Test RUNS AES : 0.982370 
+
+
+- Cycle 2 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.595246 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.650556 
+- Test Monobit AES : 0.388805 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.002698 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.000344 
+- Test RUNS AES : 0.160558 
+
+
+- Cycle 3 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.707660 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.099716 
+- Test Monobit AES : 0.500336 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.778511 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.626842 
+- Test RUNS AES : 0.650551 
+
+
+- Cycle 4 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.398809 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.528847 
+- Test Monobit AES : 0.439287 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.453176 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.309402 
+- Test RUNS AES : 0.573104 
+
+
+- Cycle 5 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.416505 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.982371 
+- Test Monobit AES : 0.658531 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.900508 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.099716 
+- Test RUNS AES : 0.799404 
+
+
+- Cycle 6 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.975070 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.023516 
+- Test Monobit AES : 0.851014 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.975070 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.723632 
+- Test RUNS AES : 0.493337 
+
+
+- Cycle 7 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.950165 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.008276 
+- Test Monobit AES : 0.207838 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.661748 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.015992 
+- Test RUNS AES : 0.088838 
+
+
+- Cycle 8 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.684559 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.188585 
+- Test Monobit AES : 0.394915 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.875831 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.325424 
+- Test RUNS AES : 0.920790 
+
+
+- Cycle 9 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.595246 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.426326 
+- Test Monobit AES : 0.102010 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.639225 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.459138 
+- Test RUNS AES : 0.314656 
+
+
+- Cycle 10 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.851269 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.160568 
+- Test Monobit AES : 0.790882 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.179026 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.740285 
+- Test RUNS AES : 0.603564 
+
+
+- Cycle 11 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.707660 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.929568 
+- Test Monobit AES : 0.920791 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.802581 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.859684 
+- Test RUNS AES : 0.833728 
+
+
+- Cycle 12 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.364804 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.336440 
+- Test Monobit AES : 0.782384 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.074813 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.298994 
+- Test RUNS AES : 0.472660 
+
+
+- Cycle 13 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.211300 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.698979 
+- Test Monobit AES : 0.658531 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.707554 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.816522 
+- Test RUNS AES : 0.626869 
+
+
+- Cycle 14 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.595246 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.407308 
+- Test Monobit AES : 0.063431 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.531943 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.885789 
+- Test RUNS AES : 0.859669 
+
+
+- Cycle 15 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.097671 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.740300 
+- Test Monobit AES : 0.288844 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.573519 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 1.000000 
+- Test RUNS AES : 0.163873 
+
+
+- Cycle 16 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.222939 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.181264 
+- Test Monobit AES : 0.885792 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.348327 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.982370 
+- Test RUNS AES : 0.347666 
+
+
+- Cycle 17 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.247579 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.439287 
+- Test Monobit AES : 0.920791 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.511525 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.342015 
+- Test RUNS AES : 0.634725 
+
+
+- Cycle 18 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.573775 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.109147 
+- Test Monobit AES : 0.359127 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.639222 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 1.000000 
+- Test RUNS AES : 0.955944 
+
+
+- Cycle 19 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.639248 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.790882 
+- Test Monobit AES : 0.154081 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.022526 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.580655 
+- Test RUNS AES : 0.170654 
+
+
+- Cycle 20 - 
+- TESTS MONOBIT - 
+- Test Monobit rand Faible : 0.000000 
+- Test Monobit rand Fort : 0.684559 
+- Test Monobit Von Neumann : 0.000000 
+- Test Monobit Mersenne - Twister : 0.565613 
+- Test Monobit AES : 0.920791 
+
+- TESTS RUNS - 
+- Test RUNS rand Faible : 0.000017 
+- Test RUNS rand Fort : 0.150560 
+- Test RUNS Von Neumann : 0.000000 
+- Test RUNS Mersenne - Twister : 0.521638 
+- Test RUNS AES : 0.690816 
+
+
